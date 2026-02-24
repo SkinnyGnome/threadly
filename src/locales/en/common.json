@@ -1,0 +1,87 @@
+{
+  "announcement": "FREE WORLDWIDE SHIPPING ON ORDERS OVER $150",
+  "nav": {
+    "brand": "THREADLY",
+    "home": "HOME",
+    "shop": "SHOP",
+    "about": "ABOUT",
+    "language": "Language"
+  },
+  "hero": {
+    "established": "ESTABLISHED 2024",
+    "heading": "THE ART OF",
+    "subheading": "MINIMALISM",
+    "description": "Premium t-shirts designed for those who appreciate the subtle details. Crafted for longevity, styled for the modern era.",
+    "cta": "EXPLORE COLLECTION",
+    "story": "OUR STORY",
+    "scroll": "SCROLL"
+  },
+  "featured": {
+    "curatedSelection": "CURATED SELECTION",
+    "heading": "FEATURED",
+    "subheading": "DESIGNS"
+  },
+  "philosophy": {
+    "label": "OUR PHILOSOPHY",
+    "heading": "CRAFTED FOR THE DISCERNING FEW",
+    "description": "We believe that true style doesn't shout. It whispers. Our t-shirts are designed with a focus on silhouette, texture, and durability. No loud logos, just perfect fit and premium materials.",
+    "cta": "LEARN ABOUT OUR PROCESS"
+  },
+  "newsletter": {
+    "heading": "JOIN THE INNER CIRCLE",
+    "description": "Be the first to know about new collection drops and exclusive events.",
+    "placeholder": "YOUR EMAIL ADDRESS",
+    "cta": "SUBSCRIBE"
+  },
+  "shop": {
+    "heading": "COLLECTIONS",
+    "sortBy": "Sort By",
+    "price": "Price",
+    "newest": "Newest",
+    "bestselling": "Bestselling",
+    "allProducts": "All Products"
+  },
+  "product": {
+    "price": "$",
+    "available": "In Stock",
+    "outOfStock": "Out of Stock",
+    "addToCart": "ADD TO CART",
+    "select": "Select Size",
+    "quantity": "Quantity",
+    "size": "Size",
+    "color": "Color",
+    "description": "Description"
+  },
+  "cart": {
+    "title": "SHOPPING BAG",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax (estimated)",
+    "total": "Total",
+    "checkout": "PROCEED TO CHECKOUT",
+    "continueShopping": "CONTINUE SHOPPING",
+    "remove": "Remove",
+    "quantity": "Qty"
+  },
+  "footer": {
+    "description": "Redefining the modern wardrobe through minimalist design and premium craftsmanship. Join our journey towards sustainable, timeless fashion.",
+    "shop": "SHOP",
+    "allCollections": "All Collections",
+    "essentials": "Essentials",
+    "graphics": "Graphics",
+    "limitedEdition": "Limited Edition",
+    "support": "SUPPORT",
+    "shippingReturns": "Shipping & Returns",
+    "sizeGuide": "Size Guide",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "copyright": "© 2024 THREADLY. ALL RIGHTS RESERVED.",
+    "privacy": "PRIVACY POLICY",
+    "terms": "TERMS OF SERVICE"
+  },
+  "about": {
+    "heading": "ABOUT THREADLY",
+    "description": "We're dedicated to creating premium quality t-shirts with perfect fit and attention to detail."
+  }
+}

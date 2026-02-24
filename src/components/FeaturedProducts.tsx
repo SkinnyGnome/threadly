@@ -4,6 +4,7 @@ import { ProductCard } from './ProductCard';
 import { PRODUCTS } from '../constants';
 import { ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 
 const ITEMS_PER_PAGE = 4;
 const AUTO_ADVANCE_MS = 4000;
@@ -15,6 +16,7 @@ const slideVariants = {
 };
 
 export const FeaturedProducts = () => {
+  const { t } = useTranslation();
   const featured = PRODUCTS.filter(p => p.featured);
   const totalPages = Math.ceil(featured.length / ITEMS_PER_PAGE);
   const [page, setPage] = useState(0);
@@ -49,10 +51,10 @@ export const FeaturedProducts = () => {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-16 gap-6">
           <div className="max-w-2xl">
             <span className="text-xs font-semibold tracking-[0.3em] text-brand-muted mb-4 block uppercase">
-              CURATED SELECTION
+              {t('featured.curatedSelection')}
             </span>
             <h2 className="text-4xl md:text-6xl font-serif font-bold leading-tight">
-              FEATURED <span className="italic font-light opacity-80">DESIGNS</span>
+              {t('featured.heading')} <span className="italic font-light opacity-80">{t('featured.subheading')}</span>
             </h2>
           </div>
           <Link

@@ -1,0 +1,87 @@
+{
+  "announcement": "GRATIS VERDENSOMSPÆNDENDE FORSENDELSE FOR ORDRER OVER 150 USD",
+  "nav": {
+    "brand": "THREADLY",
+    "home": "HJEM",
+    "shop": "BUTIK",
+    "about": "OM OS",
+    "language": "Sprog"
+  },
+  "hero": {
+    "established": "ETABLERET 2024",
+    "heading": "KUNSTEN OM",
+    "subheading": "MINIMALISME",
+    "description": "Premium t-shirts designet til dem, der værdsætter de subtile detaljer. Lavet til at holde, stylet til den moderne æra.",
+    "cta": "UDFORSK KOLLEKTION",
+    "story": "VOR HISTORIE",
+    "scroll": "SCROLL"
+  },
+  "featured": {
+    "curatedSelection": "UDVALGT UDVALG",
+    "heading": "UDVALGTE",
+    "subheading": "DESIGN"
+  },
+  "philosophy": {
+    "label": "VORES FILOSOFI",
+    "heading": "SKABT FOR DEN DYRBARE FÅ",
+    "description": "Vi mener, at sand stil ikke råber. Den hvidsker. Vores t-shirts er designet med fokus på silhuet, tekstur og holdbarhed. Ingen højttalende logoer, bare perfekt pasform og premium materialer.",
+    "cta": "LÆR OM VORES PROCES"
+  },
+  "newsletter": {
+    "heading": "TILSLUT DIG DET INDRE CIRKEL",
+    "description": "Vær blandt de første til at høre om nye kollektionsudgivelser og eksklusiv begivenheder.",
+    "placeholder": "DIN E-MAIL-ADRESSE",
+    "cta": "ABONNER"
+  },
+  "shop": {
+    "heading": "KOLLEKTIONER",
+    "sortBy": "Sortér efter",
+    "price": "Pris",
+    "newest": "Nyeste",
+    "bestselling": "Bedst sælgende",
+    "allProducts": "Alle produkter"
+  },
+  "product": {
+    "price": "kr. ",
+    "available": "På lager",
+    "outOfStock": "Udsolgt",
+    "addToCart": "TILFØJ TIL KØB",
+    "select": "Vælg størrelse",
+    "quantity": "Antal",
+    "size": "Størrelse",
+    "color": "Farve",
+    "description": "Beskrivelse"
+  },
+  "cart": {
+    "title": "INDKØBSVOGN",
+    "empty": "Din indkøbsvogn er tom",
+    "subtotal": "Subtotal",
+    "shipping": "Forsendelse",
+    "tax": "Skat (estimeret)",
+    "total": "I alt",
+    "checkout": "GÅ TIL KASSEN",
+    "continueShopping": "FORTSÆT INDKØB",
+    "remove": "Fjern",
+    "quantity": "Antal"
+  },
+  "footer": {
+    "description": "Omdefinering af den moderne garderobe gennem minimalistisk design og premium håndværk. Bliv en del af vores rejse mod bæredygtig, tidløs mode.",
+    "shop": "BUTIK",
+    "allCollections": "Alle kollektioner",
+    "essentials": "Essentielt",
+    "graphics": "Grafik",
+    "limitedEdition": "Begrænset udgave",
+    "support": "SUPPORT",
+    "shippingReturns": "Forsendelse og returneringer",
+    "sizeGuide": "Størrelsesguide",
+    "contact": "Kontakt os",
+    "faq": "OSS",
+    "copyright": "© 2024 THREADLY. ALLE RETTIGHEDER FORBEHOLDT.",
+    "privacy": "PRIVATLIVSPOLITIK",
+    "terms": "SERVICEVILKÅR"
+  },
+  "about": {
+    "heading": "OM THREADLY",
+    "description": "Vi er dedikeret til at skabe premium kvalitet t-shirts med perfekt pasform og opmærksomhed på detaljer."
+  }
+}
